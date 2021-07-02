@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaruAntonini
-- 👀 I’m interested in Backend!
+- 👀 I’m interested in Backend development!
 - 🌱 I’m currently learning PHP and JavaScrit
 - 📫 How to reach me? Just send me an email! maruantonini@hotmail.com
 
